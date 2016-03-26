@@ -9,4 +9,8 @@ API endpoints needed:
 Data to analyze:
 
 * Photos total likes/comments
+<<<<<<< HEAD
 * Lieks by photo/comment ofver time and aggragated.
+=======
+* Lieks by photo/comment ofver time and aggragated.
+>>>>>>> a2f4456286345ba090ec84cf9696071c2d3efd1b
