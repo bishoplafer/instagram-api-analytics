@@ -8,5 +8,8 @@ Relevent Data: Shows number of posts and likes. "Recent" to be defined.
 
 Relevent Data: Shows recent posts (including hashtags and likes) from user by user id.
 
+These edpoints will be needed to provide analytic data.
+
+
 
 
