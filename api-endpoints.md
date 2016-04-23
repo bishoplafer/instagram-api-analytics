@@ -3,13 +3,21 @@ These edpoints will be needed to provide analytic data about posts to help build
 
 ### Instagram API endpoints to use for local community:
 
+#### Endpoint: https://api.instagram.com/v1/tags/eugeneoregon/media/recent
+
+Relevent data: Posts from users in eugene oregon. User IDs and hashtags used.
+
+#### Endpoint: https://api.instagram.com/v1/locations/1024160796
+
+Relevent data: basic onfo about this location
+
 #### Endpoint: https://api.instagram.com/v1/locations/1024160796/media/recent
 
 Relevent Data: Shows number of posts and likes. "Recent" to be defined.
 
 #### Endpoint: https://api.instagram.com/v1/media/1232139857218674306
 
-Relevent Data:  Shows data about specific user media (post) on Instagrm. 
+Relevent Data:  Shows data about specific user media (post) on Instagram. 
 
 
 These edpoints will be needed to provide analytic data about specific users to help build community. When a community member/influencer is identified more data can then be gathered about these members.
