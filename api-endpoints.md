@@ -1,4 +1,4 @@
-These edpoints will be needed to provide analytic data about posts to help build community.
+These edpoints will be needed to provide analytic data about posts to help build community. Console for this API located at: https://apigee.com/console/instagram
 
 
 ### Instagram API endpoints to use for local community:
